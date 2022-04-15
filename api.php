@@ -149,7 +149,7 @@ if(!empty($url)) {
 				file_put_contents("player.log", $track_list);
 			}
 		} else {
-			$array = ['error' => 'Неможам да ја земам листата'];
+			$array = ['error' => 'Неможам да ја превземам листата'];
 		}
 
 		$track_history = file("player.log");
