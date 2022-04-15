@@ -78,21 +78,6 @@
                                                     <div class="percentual-volume col-12">Јачина <span id="volIndicator">...</span>%</div>
                                                 </div>
                                                 </div>
-                                           <!-- <div class="col-12 text-center call-lyrics">
-                                                <a href="#" class="lyrics" style="" data-target="   ">Текст од песната</a>
-                                            </div>
-                                        <p></p> -->
-                                            <!-- <div class ="col-12 text-center">
-                                               <p>Апликацијата е сеуште во тест Фаза така да доколку забележете некој пропуст (се извинуваме).</p>
-                                            </div> -->
-                                          <!-- <div class="col-12 text-center">
-                                                <div class="fb-share-button" 
-                                                data-href="https://radio.kanal77.mk/index.php" 
-                                                data-layout="button_count">
-                                                </div><br />
-                                                <a href="https://twitter.com/intent/tweet?screen_name=Kanal77&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @Kanal77</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                                                <div> -->
-                                                <!-- <p>Водител во моментот - Анѓела Пингова</p> -->
                                                 </div>
                                             </div>
                                         </div>
