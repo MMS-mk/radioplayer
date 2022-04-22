@@ -10,9 +10,7 @@
 var settings = {
     'radio_name': 'Kanal77', // името на радио станицата
     'url_streaming': 'https://radio.kanal77.mk:8002', // од каде го зима 7.html
-    //'url_streaming' : 'https://streamingv2.shoutcast.com/radio-kanal-77'
     'url_streaming2': 'https://live.kanal77.com.mk:8089/acc', // од каде го пушта аудио стримот
-    //'url_streaming2': 'https://radio.kanal77.mk:8002/;' // Shoutcast Streaming Backup
     'streaming_type': 'shoutcast', // вид на стимот
     'api_key': 'cae6a7d0071ec26ee581082dc65eefdf', // клуч за апито
     'historic': true,
