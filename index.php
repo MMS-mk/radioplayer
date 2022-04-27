@@ -36,7 +36,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-Z17JDJTBQT');
+  gtag('config', 'UA-72950522-1');
 </script>
 </head>
 
